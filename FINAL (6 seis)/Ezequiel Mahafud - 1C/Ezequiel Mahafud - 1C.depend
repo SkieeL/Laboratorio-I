@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1497671498 source:d:\final ezequiel mahafud 1c\ezequiel mahafud - 1c\arraylist.c
+	<stdlib.h>
+	"ArrayList.h"
+
+1497671404 d:\final ezequiel mahafud 1c\ezequiel mahafud - 1c\arraylist.h
+
+1499872198 source:d:\final ezequiel mahafud 1c\ezequiel mahafud - 1c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1499871588 d:\final ezequiel mahafud 1c\ezequiel mahafud - 1c\funciones.h
+
+1499872194 source:d:\final ezequiel mahafud 1c\ezequiel mahafud - 1c\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1497671498 source:e:\final ezequiel mahafud 1c\ezequiel mahafud - 1c\arraylist.c
+	<stdlib.h>
+	"ArrayList.h"
+
+1497671404 e:\final ezequiel mahafud 1c\ezequiel mahafud - 1c\arraylist.h
+
+1501042300 source:e:\final ezequiel mahafud 1c\ezequiel mahafud - 1c\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1499871590 e:\final ezequiel mahafud 1c\ezequiel mahafud - 1c\funciones.h
+
+1499872200 source:e:\final ezequiel mahafud 1c\ezequiel mahafud - 1c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"funciones.h"
+

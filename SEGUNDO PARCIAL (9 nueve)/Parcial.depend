@@ -1,0 +1,178 @@
+# depslib dependency file v1.0
+1497328113 source:c:\users\c\desktop\parcial\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1497328047 c:\users\c\desktop\parcial\arraylist.h
+
+1497336583 source:c:\users\c\desktop\parcial\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1497329204 c:\users\c\desktop\parcial\employee.h
+
+1497336583 source:c:\users\c\desktop\parcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"ArrayList.h"
+	"Employee.h"
+	"SkieL.h"
+	"funciones.h"
+
+1497327795 c:\users\c\desktop\parcial\skiel.h
+
+1497334808 c:\users\c\desktop\parcial\funciones.h
+
+1497331157 source:c:\users\c\desktop\parcial\skiel.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1497334146 source:c:\users\c\desktop\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"ArrayList.h"
+	"Employee.h"
+	"SkieL.h"
+	"funciones.h"
+
+1497328114 source:c:\users\alumno\desktop\parcial 13-6-17\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1497328048 c:\users\alumno\desktop\parcial 13-6-17\arraylist.h
+
+1497336584 source:c:\users\alumno\desktop\parcial 13-6-17\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1497357304 c:\users\alumno\desktop\parcial 13-6-17\employee.h
+
+1497331158 source:c:\users\alumno\desktop\parcial 13-6-17\skiel.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1497328114 source:d:\parcial 13-6-17\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1497328048 d:\parcial 13-6-17\arraylist.h
+
+1497358114 source:d:\parcial 13-6-17\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+	"funciones.h"
+
+1497359734 d:\parcial 13-6-17\employee.h
+
+1497331158 source:d:\parcial 13-6-17\skiel.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1497362560 d:\parcial 13-6-17\funciones.h
+	"ArrayList.h"
+
+1497362771 source:d:\parcial 13-6-17\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"ArrayList.h"
+	"Employee.h"
+	"funciones.h"
+
+1497362560 source:d:\parcial 13-6-17\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"ArrayList.h"
+	"Employee.h"
+	"funciones.h"
+
+1497328114 source:d:\parcial ezequiel mahafud\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1497328048 d:\parcial ezequiel mahafud\arraylist.h
+
+1497362771 source:d:\parcial ezequiel mahafud\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"ArrayList.h"
+	"Employee.h"
+	"funciones.h"
+
+1497362560 d:\parcial ezequiel mahafud\funciones.h
+	"ArrayList.h"
+
+1497364613 source:d:\parcial ezequiel mahafud\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1497400028 source:c:\users\usuario\desktop\utn\parcial 2 eze mahafud (entregado)\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1497328048 c:\users\usuario\desktop\utn\parcial 2 eze mahafud (entregado)\arraylist.h
+
+1497401313 source:c:\users\usuario\desktop\utn\parcial 2 eze mahafud (entregado)\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1497399119 c:\users\usuario\desktop\utn\parcial 2 eze mahafud (entregado)\funciones.h
+	"ArrayList.h"
+
+1497401313 source:c:\users\usuario\desktop\utn\parcial 2 eze mahafud (entregado)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"ArrayList.h"
+	"funciones.h"
+
